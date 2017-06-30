@@ -431,6 +431,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = FS6HQ76R59;
 				INFOPLIST_FILE = GitTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tcps.GitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -443,6 +444,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = FS6HQ76R59;
 				INFOPLIST_FILE = GitTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tcps.GitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -518,6 +520,7 @@
 				313C3BA41F05EE00001F4F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		313C3BA51F05EE00001F4F39 /* Build configuration list for PBXNativeTarget "GitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +529,7 @@
 				313C3BA71F05EE00001F4F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		313C3BA81F05EE00001F4F39 /* Build configuration list for PBXNativeTarget "GitTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +538,7 @@
 				313C3BAA1F05EE00001F4F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
